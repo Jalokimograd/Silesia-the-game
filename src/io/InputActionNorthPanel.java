@@ -1,5 +1,6 @@
 package io;
 
+//Pomyłka
 import game.*;
 import panel.*;
 
